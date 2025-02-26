@@ -4,6 +4,8 @@ According to the Office for National Statistics (ONS), in April 2024, the median
 
 The pay gap for full-time workers has steadily declined since 1997, and the overall gender pay gap has also decreased over time. Meanwhile, the part-time pay gap has remained small and negative, indicating that, on average, women in part-time roles earn slightly more than men.
 
+This project is from Data analytics intensive course at General Assembly Bootcamp Oct 2024-January 2025. 
+
 ## Data 
 The Dataset is retrieved from [UK.GOV](https://gender-pay-gap.service.gov.uk/), detailed postcode from [doogal](https://www.doogal.co.uk/UKPostcodes) and siccodes [here](https://resources.companieshouse.gov.uk/sic/)
 
