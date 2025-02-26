@@ -9,5 +9,5 @@ This project is from Data analytics intensive course at General Assembly Bootcam
 ## Data 
 The Dataset is retrieved from [UK.GOV](https://gender-pay-gap.service.gov.uk/), detailed postcode from [doogal](https://www.doogal.co.uk/UKPostcodes) and siccodes [here](https://resources.companieshouse.gov.uk/sic/)
 
-## SQL Report
-Reporting of this dataset and sql code can be found [here] 
+## SQL Report and Tableau
+Reporting of this dataset and sql code can be found [here](https://github.com/Phariie/UK-Gender-Pay-Gap-2021-2022/blob/main/GenderPayGap.pdf). Tableau Dashboard can be found on [Tableau Public](https://public.tableau.com/app/profile/phasiri.honsa/viz/UnitedKingdonGenderPayGap21-22/Dashboard2)
